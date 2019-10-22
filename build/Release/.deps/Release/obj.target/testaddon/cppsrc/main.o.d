@@ -5,7 +5,8 @@ Release/obj.target/testaddon/cppsrc/main.o: ../cppsrc/main.cpp \
   /Users/zhuweiwang/.node-gyp/8.9.3/include/node/node_api_types.h \
   /Users/zhuweiwang/Desktop/AudaWorkspace/addonTest/node_modules/node-addon-api/napi-inl.h \
   /Users/zhuweiwang/Desktop/AudaWorkspace/addonTest/node_modules/node-addon-api/napi-inl.deprecated.h \
-  ../cppsrc/Samples/functionexample.h
+  ../cppsrc/Samples/functionexample.h ../cppsrc/Samples/classexample.h \
+  ../cppsrc/Samples/actualclass.h
 ../cppsrc/main.cpp:
 /Users/zhuweiwang/Desktop/AudaWorkspace/addonTest/node_modules/node-addon-api/napi.h:
 /Users/zhuweiwang/.node-gyp/8.9.3/include/node/node_api.h:
@@ -13,3 +14,5 @@ Release/obj.target/testaddon/cppsrc/main.o: ../cppsrc/main.cpp \
 /Users/zhuweiwang/Desktop/AudaWorkspace/addonTest/node_modules/node-addon-api/napi-inl.h:
 /Users/zhuweiwang/Desktop/AudaWorkspace/addonTest/node_modules/node-addon-api/napi-inl.deprecated.h:
 ../cppsrc/Samples/functionexample.h:
+../cppsrc/Samples/classexample.h:
+../cppsrc/Samples/actualclass.h:
